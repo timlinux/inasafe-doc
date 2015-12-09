@@ -22,6 +22,35 @@ html:
   entrypoint: ./scripts/post_translate.sh
   tty: true
 
+# Update po files with new strings
+preparetranslations:
+  image: qgis/sphinx_html
+  volumes:
+   - .:/inasafe-doc/
+  working_dir: /inasafe-doc
+  entrypoint: ./scripts/pre_translate.sh
+  tty: true
+
+
+# Update transifex resources and push to transifex
+pushtransifex:
+  image: qgis/sphinx_html
+  volumes:
+   - .:/inasafe-doc/
+  working_dir: /inasafe-doc
+  entrypoint: ./scripts/create_transifex_resources.sh
+  tty: true
+
+# Update transifex by pulling from transifex
+pulltransifex:
+  image: qgis/sphinx_html
+  volumes:
+   - .:/inasafe-doc/
+  working_dir: /inasafe-doc
+  entrypoint: ./scripts/transifex_pull.sh
+  tty: true
+
+
 # build pdf AND html
 # 
 # docker-compose run --rm pdf
