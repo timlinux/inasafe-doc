@@ -1,21 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, InaSAFE project
 # This file is distributed under the same license as the InaSAFE Documentation Project package.
-#
+# 
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: inasafe-develop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-02 19:18+0200\n"
+"POT-Creation-Date: 2015-04-02 19:11\n"
 "PO-Revision-Date: 2015-04-02 17:14+0000\n"
 "Last-Translator: Werner Macho <werner.macho@gmail.com>\n"
-"Language-Team: French (http://www.transifex.com/projects/p/inasafe-develop/"
-"language/fr/)\n"
-"Language: fr\n"
+"Language-Team: French (http://www.transifex.com/timlinux/inasafe-develop/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 # abc525b12b0e4ac58c296cd1fe5a2284
@@ -103,8 +102,8 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:41
 msgid ""
 "Let’s start with some data in the Sleman regency that has already been "
-"symbolised. Open the project named :file:`print_2_11.qgs` in the :file:`qgis/"
-"` directory."
+"symbolised. Open the project named :file:`print_2_11.qgs` in the "
+":file:`qgis/` directory."
 msgstr ""
 
 # 034bfb38965c44e1b4bc63a991dcf12d
@@ -126,8 +125,8 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:55
 msgid ""
 "Go to :menuselection:`Project ‣ New Print Composer`. Then, give a unique "
-"title name for your layout, such as :kbd:`My Layout 1`. Click :guilabel:"
-"`OK`. A new window will load that looks like this:"
+"title name for your layout, such as :kbd:`My Layout 1`. Click "
+":guilabel:`OK`. A new window will load that looks like this:"
 msgstr ""
 
 # 6241f807feae4a448a975d89a996642b
@@ -216,8 +215,8 @@ msgstr ""
 # 858ef4c493e845738b8bee3bbfb6a83c
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:106
 msgid ""
-"**Select / Move Item** allows us to choose and move the elements that are in "
-"the map layout. With this tool selected, you can right-click on an element "
+"**Select / Move Item** allows us to choose and move the elements that are in"
+" the map layout. With this tool selected, you can right-click on an element "
 "to lock its position."
 msgstr ""
 
@@ -249,8 +248,8 @@ msgstr ""
 # 61b946283bd3458f8ff2b5ffd1679543
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:130
 msgid ""
-"Once you are happy set the scale of your map by going to the :guilabel:`Item "
-"Properties` tab in the right panel."
+"Once you are happy set the scale of your map by going to the :guilabel:`Item"
+" Properties` tab in the right panel."
 msgstr ""
 
 # 6c852ee28e744fd49e8bab2dd39fde8b
@@ -271,8 +270,9 @@ msgstr ""
 # 80159156e5f14677b8ac0c3cc89fe1b7
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:146
 msgid ""
-"When you change the scale some parts of your map may become invisible. Click "
-"on the “Move item content” button and drag the map so that it is all visible."
+"When you change the scale some parts of your map may become invisible. Click"
+" on the “Move item content” button and drag the map so that it is all "
+"visible."
 msgstr ""
 
 # 96d0fbb0f4c84409be3245e264b4e93f
@@ -321,8 +321,8 @@ msgstr ""
 # be8bbd22d104460b867c3ff42b73287e
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:185
 msgid ""
-"Let’s add a scale bar, so that anyone who looks at our map will have an idea "
-"what size area this map shows."
+"Let’s add a scale bar, so that anyone who looks at our map will have an idea"
+" what size area this map shows."
 msgstr ""
 
 # 963b5353448c4f8e982113e90c0c3031
@@ -368,8 +368,8 @@ msgstr ""
 # 19f967ca4e464879b4972a19d164aa18
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:218
 msgid ""
-"In the panel on the right you should see the word :guilabel:`Grid`. Click on "
-"it."
+"In the panel on the right you should see the word :guilabel:`Grid`. Click on"
+" it."
 msgstr ""
 
 # 19062c8899fa46fe82592747496ee93c
@@ -387,8 +387,8 @@ msgstr ""
 # 04785a749c3d46248c27fd196d208fb9
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:229
 msgid ""
-"Scroll down item properties dialog and check the box next to :guilabel:`Draw "
-"Coordinates` and enter the following values:"
+"Scroll down item properties dialog and check the box next to :guilabel:`Draw"
+" Coordinates` and enter the following values:"
 msgstr ""
 
 # 689b562083a54d098753879d5840b154
@@ -416,13 +416,15 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:249
 msgid ""
 "You can also adjust the coordinate placement. You can place the text inside "
-"or outside the frame, and make the orientation either vertical or horizontal."
+"or outside the frame, and make the orientation either vertical or "
+"horizontal."
 msgstr ""
 
 # fedb718314fd466a931a8701d96d77df
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:253
 msgid ""
-"Change the font type and font size by clicking :guilabel:`Font` in the panel."
+"Change the font type and font size by clicking :guilabel:`Font` in the "
+"panel."
 msgstr ""
 
 # b20c37dacd7941ce93d322fdcdc8a71e
@@ -445,8 +447,8 @@ msgstr ""
 # 6cb5273120344afc9493f640b706aa95
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:263
 msgid ""
-"Add the layer :file:`Indonesia.shp`, which is located in :file:`qgis/"
-"peta_dunia/`. Click :guilabel:`Zoom Full`."
+"Add the layer :file:`Indonesia.shp`, which is located in "
+":file:`qgis/peta_dunia/`. Click :guilabel:`Zoom Full`."
 msgstr ""
 
 # 2401f21d7fa7428e8aeaa2c08a3ad671
@@ -501,8 +503,8 @@ msgstr ""
 # b77dbd7cb9734148980ef60aa28dc576
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:303
 msgid ""
-"In the panel on the right, click on :guilabel:`Legend items`. Uncheck :"
-"guilabel:`Auto update` and use the edit button to change the names on the "
+"In the panel on the right, click on :guilabel:`Legend items`. Uncheck "
+":guilabel:`Auto update` and use the edit button to change the names on the "
 "legend. Use the :guilabel:`+` and :guilabel:`-` buttons to add or remove "
 "items from the legend. Choose which elements are important to include."
 msgstr ""
@@ -520,10 +522,10 @@ msgstr ""
 # 1b868222c6854d02a6c096cf729cf484
 #: ../../source/training/beginner/qgis-inasafe/211-using-map-composer.rst:324
 msgid ""
-"To save your map composer that you created, you can click on the :"
-"menuselection:`Composer ‣ Save Project`. So if you open the project QGIS and "
-"want to use the map composer that you saved, click on :menuselection:"
-"`Project ‣ Print Composer ‣ My Layout 1`"
+"To save your map composer that you created, you can click on the "
+":menuselection:`Composer ‣ Save Project`. So if you open the project QGIS "
+"and want to use the map composer that you saved, click on "
+":menuselection:`Project ‣ Print Composer ‣ My Layout 1`"
 msgstr ""
 
 # fb3692f1418043738140361a4506077b

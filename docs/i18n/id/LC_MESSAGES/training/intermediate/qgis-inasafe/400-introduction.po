@@ -1,9 +1,9 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, InaSAFE project
 # This file is distributed under the same license as the InaSAFE Documentation Project package.
-#
+# 
 # Translators:
-# adityo dwijananto <adz.only@gmail.com>, 2014
+# adityo dwijananto <adz.only@gmail.com>, 2014-2015
 # BiondiSima <biondi.sima@hotosm.org>, 2014
 # Dewi Sulistioningrum <dewi.sulistioningrum@hotosm.org>, 2014
 # Dewi Sulistioningrum <dewi.sulistioningrum@hotosm.org>, 2014
@@ -13,15 +13,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: inasafe-develop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-02 19:18+0200\n"
-"PO-Revision-Date: 2015-04-02 17:14+0000\n"
-"Last-Translator: Werner Macho <werner.macho@gmail.com>\n"
-"Language-Team: Indonesian (http://www.transifex.com/projects/p/inasafe-"
-"develop/language/id/)\n"
-"Language: id\n"
+"POT-Creation-Date: 2015-04-02 19:11\n"
+"PO-Revision-Date: 2015-06-11 09:47+0000\n"
+"Last-Translator: adityo dwijananto <adz.only@gmail.com>\n"
+"Language-Team: Indonesian (http://www.transifex.com/timlinux/inasafe-develop/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 # a9c5eb58ab80442e95d7f4f1e8986472
@@ -39,7 +38,7 @@ msgstr "Ketentuan"
 msgid ""
 "This document is an initial draft and is still in the reviewing phase by "
 "these parties:"
-msgstr ""
+msgstr "Dokumen ini merupakan rancangan awal dan masih dalam tahap peninjauan oleh pihak-pihak sebagai berikut:"
 
 # 7c0bd3763b094f5ca1c54dbab1b770c7
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:17
@@ -61,7 +60,7 @@ msgstr "Humanitarian OpenStreetMap Team (|HOT|)"
 msgid ""
 "All contents and materials in this document may be changed without public "
 "notice."
-msgstr ""
+msgstr "Seluruh isi dan materi dalam dokumen ini kemungkinan masih dapat mengalami perubahan tanpa pemberitahuan publik."
 
 # 7eb1fa520fc143359f19dab5e073e958
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:25
@@ -71,11 +70,9 @@ msgstr "Lisensi"
 # 46a43e69eac74587b73fdf6ac7afe4a6
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:29
 msgid ""
-"All contents and materials in this document are licensed as Creative Commons "
-"Attribution Australia (CCbyA)."
-msgstr ""
-"Seluruh isi dan materi pada dokumen ini berlisensikan Creative Commons "
-"Attribution Australia (CCbyA)."
+"All contents and materials in this document are licensed as Creative Commons"
+" Attribution Australia (CCbyA)."
+msgstr "Seluruh isi dan materi pada dokumen ini berlisensikan Creative Commons Attribution Australia (CCbyA)."
 
 # 224cecf85208410db5c0a8f8296dd6be
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:32
@@ -105,11 +102,9 @@ msgstr "Anda harus memberikan kredit penulis asli."
 # ffe12766ec024ae991ee7ceec38c866c
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:40
 msgid ""
-"More information about CCbyA License: http://creativecommons.org/licenses/"
-"by/3.0/au/deed.en_GB"
-msgstr ""
-"Keterangan lebih lanjut mengenai Lisensi CCbyA: http://creativecommons.org/"
-"licenses/by/3.0/au/deed.en_GB"
+"More information about CCbyA License: "
+"http://creativecommons.org/licenses/by/3.0/au/deed.en_GB"
+msgstr "Keterangan lebih lanjut mengenai Lisensi CCbyA: http://creativecommons.org/licenses/by/3.0/au/deed.en_GB"
 
 # 44a77ff8830f4fff9c054988034fde08
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:44
@@ -132,16 +127,7 @@ msgid ""
 "refugee/IDP management for effective and efficient response. It coordinates "
 "the implementation of disaster management activities in a planned, "
 "integrated and comprehensive way."
-msgstr ""
-"BNPB adalah Badan Nasional Penanggulangan Bencana Indonesia. |BNPB| "
-"merupakan lembaga pemerintah non-departemen di tingkat kementrian yang "
-"bertugas untuk menyediakan panduan dan pengarahan di bidang manajemen "
-"bencana, termasuk pencegahan bencana, respon keadaan darurat, rehabilitasi, "
-"dan rekonstruksi secara adil dan merata. BNPB memiliki fungsi sebagai "
-"pembuat kebijakan terkait manajemen pengungsi (IDP) untuk bertindak secara "
-"cepat dan merespon secara efisien. BNPB juga mengkoordinasikan implementasi "
-"dari aktifitas manajemen bencana secara terencana, terintegrasi, dan "
-"komprehensif."
+msgstr "BNPB adalah Badan Nasional Penanggulangan Bencana Indonesia. |BNPB| merupakan lembaga pemerintah non-departemen di tingkat kementrian yang bertugas untuk menyediakan panduan dan pengarahan di bidang manajemen bencana, termasuk pencegahan bencana, respon keadaan darurat, rehabilitasi, dan rekonstruksi secara adil dan merata. BNPB memiliki fungsi sebagai pembuat kebijakan terkait manajemen pengungsi (IDP) untuk bertindak secara cepat dan merespon secara efisien. BNPB juga mengkoordinasikan implementasi dari aktifitas manajemen bencana secara terencana, terintegrasi, dan komprehensif."
 
 # 48e1a40be02f4b268a7cca954a50f86b
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:60
@@ -156,24 +142,15 @@ msgstr "Australia-Indonesia Facility for Disaster Reduction (AIFDR)"
 # c137c71dc41d4e31b739a5d0f852367a
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:67
 msgid ""
-"The Australia-Indonesia Facility for Disaster Reduction (|AIFDR|) is a joint "
-"initiative between the governments of Australia and Indonesia. They work to "
-"strengthen Indonesia's ability to reduce the impact of disasters. The "
+"The Australia-Indonesia Facility for Disaster Reduction (|AIFDR|) is a joint"
+" initiative between the governments of Australia and Indonesia. They work to"
+" strengthen Indonesia's ability to reduce the impact of disasters. The "
 "Australian and Indonesian governments at a special ceremony on 15 July 2010 "
 "launched the Australia-Indonesia facility. The launch marks an important "
 "event in the strong relationship now shared by both countries and their "
 "united commitment to better prepare for and respond to natural disasters in "
 "Indonesia."
-msgstr ""
-"Australia-Indonesia Facility for Disaster Reduction (AIFDR, Fasilitas "
-"Australia-Indonesia untuk pengurangan bencana) merupakan inisiatif gabungan "
-"antara pemerintah Australia dengan pemerintahIndonesia. AIFDR bekerja untuk "
-"memperkuat kemampuan Indonesia untuk mengurangi dampak bencana. AIFDR "
-"diluncurkan oleh pemerintah Australia dan pemerintah Indonesia dalam sebuah "
-"seremoni khusus pada tanggal 15 Juli 2010. Peluncuran ini menandakan sebuah "
-"kejadian penting dalam hubungan kuat yang saat ini terjalin antara kedua "
-"negara dan komitmen mereka untuk mempersiakan dan merespon bencana alam di "
-"Indonesia lebih baik."
+msgstr "Australia-Indonesia Facility for Disaster Reduction (AIFDR, Fasilitas Australia-Indonesia untuk pengurangan bencana) merupakan inisiatif gabungan antara pemerintah Australia dengan pemerintahIndonesia. AIFDR bekerja untuk memperkuat kemampuan Indonesia untuk mengurangi dampak bencana. AIFDR diluncurkan oleh pemerintah Australia dan pemerintah Indonesia dalam sebuah seremoni khusus pada tanggal 15 Juli 2010. Peluncuran ini menandakan sebuah kejadian penting dalam hubungan kuat yang saat ini terjalin antara kedua negara dan komitmen mereka untuk mempersiakan dan merespon bencana alam di Indonesia lebih baik."
 
 # e5020bcae13f413fa033bfac6e6eb72a
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:76
@@ -194,19 +171,9 @@ msgid ""
 "map of the entire world, built entirely by volunteers surveying with GPS, "
 "digitising aerial imagery, and collecting and liberating existing public "
 "sources of geographic data. The Humanitarian OpenStreetMap Team (|HOT|) is "
-"an initiative to apply the principles and activities of open source and open "
-"data sharing towards humanitarian response and economic development."
-msgstr ""
-"Peta gratis dan kolaboratif mempunyai keunikan yang berharga untuk pekerjaan "
-"kemanusiaan, terutama di tempat-tempat dimana peta dasar sangat jarang "
-"ditemukan, datanya sudah lama, atau seringkali berubah. OpenStreetMap "
-"merupakan proyek berbasis website untuk membuat peta dunia yang gratis dan "
-"terbuka, dibangun oleh volunteer yang melakukan survei dengan GPS, "
-"mendigitasi citra satelit, dan mengumpulkan juga membebaskan sumber data "
-"geografis publik yang sudah ada . Tim Kemanusiaan OpenStreetMap (HOT) "
-"merupakan sebuah inisiatif yang baru untuk mengaplikasikan prinsip dan "
-"aktifitas dari sumber terbuka dan berbagi data terbuka untuk menuju respon "
-"kemanusiaan dan pembangunan ekonomi."
+"an initiative to apply the principles and activities of open source and open"
+" data sharing towards humanitarian response and economic development."
+msgstr "Peta gratis dan kolaboratif mempunyai keunikan yang berharga untuk pekerjaan kemanusiaan, terutama di tempat-tempat dimana peta dasar sangat jarang ditemukan, datanya sudah lama, atau seringkali berubah. OpenStreetMap merupakan proyek berbasis website untuk membuat peta dunia yang gratis dan terbuka, dibangun oleh volunteer yang melakukan survei dengan GPS, mendigitasi citra satelit, dan mengumpulkan juga membebaskan sumber data geografis publik yang sudah ada . Tim Kemanusiaan OpenStreetMap (HOT) merupakan sebuah inisiatif yang baru untuk mengaplikasikan prinsip dan aktifitas dari sumber terbuka dan berbagi data terbuka untuk menuju respon kemanusiaan dan pembangunan ekonomi."
 
 # ff498c83e9c24f4ab0dc84026d4ae408
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:92
@@ -221,14 +188,14 @@ msgstr "Universitas Gadjah Mada"
 # 69577447c1ea45de99e300f252d1fade
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:99
 msgid ""
-"Universitas Gadjah Mada (internationally known as Gadjah Mada University, or "
-"UGM) is a top research university located in Yogyakarta, Indonesia. The "
+"Universitas Gadjah Mada (internationally known as Gadjah Mada University, or"
+" UGM) is a top research university located in Yogyakarta, Indonesia. The "
 "Department of Geodetic Engineering and Faculty of Engineering focuses on "
-"education, research, and community services related to geodesy and geomatics "
-"engineering, including acquisition, analysis, and uses of detailed and "
+"education, research, and community services related to geodesy and geomatics"
+" engineering, including acquisition, analysis, and uses of detailed and "
 "accurate geospatial data and large-scale maps using open source geospatial "
 "software for disaster management."
-msgstr ""
+msgstr "Universitas Gadjah Mada (secara internasional dikenal sebagai Gadjah Mada University ; Disingkat : UGM) adalah salah satu pusat penelitian tingkat universitas yang bertempat di Yogyakarta, Indonesia. Departemen Teknik Geodesi, Fakultas Teknik khususnya fokus dalam kegiatan pengajaran, penelitian, dan pengabdian kelompok yang berkaitan dengan geodesi dan teknik geomatik, termasuk akuisisi, analisis, dan penggunaan dari geospasial data yang detil dan akurat serta dengan peta berskala besar menggunakan software geospasial bersifat open source dalam manajemen bencana."
 
 # 2cf232f603cc419f97a6bc53e75dce86
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:107
@@ -244,31 +211,19 @@ msgstr "Pengantar"
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:113
 msgid ""
 "By now you should be adept in data collection techniques and have a solid "
-"foundation in analysis with QGIS. In this unit we will be focusing again on |"
-"project_name| and QGIS skills that aid in contingency planning."
-msgstr ""
-"Selamat datang di Unit Menengah dalam Analisis Spasial. Mulai sekarang Anda "
-"seharusnya sudah mahir dalam teknik pengumpulan data dan memiliki dasar yang "
-"cukup kuat dalam analisis menggunakan QGIS. Dalam unit ini kita akan fokus "
-"lagi ke dalam keterampilan |project_name| dan QGIS yang berguna dalam "
-"rencana kontinjensi."
+"foundation in analysis with QGIS. In this unit we will be focusing again on "
+"|project_name| and QGIS skills that aid in contingency planning."
+msgstr "Selamat datang di Unit Menengah dalam Analisis Spasial. Mulai sekarang Anda seharusnya sudah mahir dalam teknik pengumpulan data dan memiliki dasar yang cukup kuat dalam analisis menggunakan QGIS. Dalam unit ini kita akan fokus lagi ke dalam keterampilan |project_name| dan QGIS yang berguna dalam rencana kontinjensi."
 
 # 4cb6ba610bb847d788656fe8976d6064
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:118
 msgid ""
 "First, we will undertake a brief review of unit 2, to solidify the QGIS "
-"skills that we studied previously. Then we will begin working on another |"
-"project_name| project using flood data as our hazard. We will consider the "
+"skills that we studied previously. Then we will begin working on another "
+"|project_name| project using flood data as our hazard. We will consider the "
 "best possible evacuation routes and locations for IDP camps, calculate "
 "damages and losses and learn how to display them on a map."
-msgstr ""
-"Pertama, kita akan sedikit mengulang unit 2, untuk meyakinkan bahwa kita "
-"masih mengingat semua keterampilan dalam mengoperasikan QGIS yang telah kita "
-"pelajari sebelumnya. Kemudian kita akan mulai mengerjakan proyek |"
-"project_name| lainnya menggunakan data banjir sebagai data ancaman bencana. "
-"Kita akan mempertimbangkan kemungkinan rute evakuasi yang terbaik dan lokasi "
-"untuk tempat pengungsian, perhitungan dampak dan kerugiannya, serta belajar "
-"bagaimana menampilkannya dalam sebuah peta."
+msgstr "Pertama, kita akan sedikit mengulang unit 2, untuk meyakinkan bahwa kita masih mengingat semua keterampilan dalam mengoperasikan QGIS yang telah kita pelajari sebelumnya. Kemudian kita akan mulai mengerjakan proyek |project_name| lainnya menggunakan data banjir sebagai data ancaman bencana. Kita akan mempertimbangkan kemungkinan rute evakuasi yang terbaik dan lokasi untuk tempat pengungsian, perhitungan dampak dan kerugiannya, serta belajar bagaimana menampilkannya dalam sebuah peta."
 
 # 678af27b8fa44ffdb49dc98489b5eb61
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:125
@@ -277,12 +232,7 @@ msgid ""
 "together the data which we now know how to collect in OSM, QGIS spatial "
 "analysis skills and the power of |project_name| to help develop effective "
 "and informative contingency plans."
-msgstr ""
-"Unit ini mencakup lebih banyak dari apa yang akan kita pelajari ke depan. "
-"Kita akan menampilkan bersama-sama data yang telah kita ketahui sekarang "
-"bagaimana cara mengumpulkannya menggunakan OpenStreetMap, keterampilan "
-"analisis spasial menggunakan QGIS, dan kekuatan dari |project_name| untuk "
-"membantu membangun rencana kontinjensi yang efektif dan informatif."
+msgstr "Unit ini mencakup lebih banyak dari apa yang akan kita pelajari ke depan. Kita akan menampilkan bersama-sama data yang telah kita ketahui sekarang bagaimana cara mengumpulkannya menggunakan OpenStreetMap, keterampilan analisis spasial menggunakan QGIS, dan kekuatan dari |project_name| untuk membantu membangun rencana kontinjensi yang efektif dan informatif."
 
 # cd5ccd93fb364fccbe6b7d9f93f68ec8
 #: ../../source/training/intermediate/qgis-inasafe/400-introduction.rst:131

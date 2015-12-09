@@ -1,21 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, InaSAFE project
 # This file is distributed under the same license as the InaSAFE Documentation Project package.
-#
+# 
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: inasafe-develop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-02 19:18+0200\n"
+"POT-Creation-Date: 2015-04-02 19:11\n"
 "PO-Revision-Date: 2015-04-02 17:15+0000\n"
 "Last-Translator: Werner Macho <werner.macho@gmail.com>\n"
-"Language-Team: French (http://www.transifex.com/projects/p/inasafe-develop/"
-"language/fr/)\n"
-"Language: fr\n"
+"Language-Team: French (http://www.transifex.com/timlinux/inasafe-develop/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 # 0ba094ba6c18424a921d97d486057616
@@ -198,8 +197,8 @@ msgstr ""
 # 02922903de01469d9fe957fec016e3e1
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:68
 msgid ""
-"For this exercise the data has been provided already, but in a real scenario "
-"you may need to find providers for the datasets in question. In Indonesia, "
+"For this exercise the data has been provided already, but in a real scenario"
+" you may need to find providers for the datasets in question. In Indonesia, "
 "the National Land Agency and BNPB Bappeda are good sources for the types of "
 "data you will need, and OpenStreetMap can be used as a source for roads and "
 "infrastructure."
@@ -224,17 +223,17 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:84
 msgid ""
 "Start adding the layers we will use. In the :file:`Sleman/Merapi/` folder, "
-"add the layers :file:`jalan_sleman_49S`, :file:`tempat_penting_Sleman_49S`, :"
-"file:`KRB3_49S` and :file:`vegetasi_49S`. Your Layers panel should look like "
-"this:"
+"add the layers :file:`jalan_sleman_49S`, :file:`tempat_penting_Sleman_49S`, "
+":file:`KRB3_49S` and :file:`vegetasi_49S`. Your Layers panel should look "
+"like this:"
 msgstr ""
 
 # 82072147e5614662acf9e610121f5e96
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:92
 msgid ""
-"Most of the layers are pretty self-explanatory, but what are KRB3, KRB2, and "
-"KRB1? These layers show areas of impact when Merapi erupts. KRB3 is the area "
-"of worst impact, KRB2 is medium, and KRB1 has little impact. In this "
+"Most of the layers are pretty self-explanatory, but what are KRB3, KRB2, and"
+" KRB1? These layers show areas of impact when Merapi erupts. KRB3 is the "
+"area of worst impact, KRB2 is medium, and KRB1 has little impact. In this "
 "scenario we want to find locations that are not within KRB3."
 msgstr ""
 
@@ -253,14 +252,15 @@ msgstr ""
 # 423a2837e7bc4b36b653779ae1e555a3
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:104
 msgid ""
-"Rename the layers by right-clicking on them and selecting :guilabel:`Rename`."
+"Rename the layers by right-clicking on them and selecting "
+":guilabel:`Rename`."
 msgstr ""
 
 # 045c79f6511d4d3abf8ab4a159d91cd6
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:106
 msgid ""
-"Give them the new, simpler names :guilabel:`jalan`, :guilabel:"
-"`lokasi_penting`, :guilabel:`KRB III` and :guilabel:`vegetasi`."
+"Give them the new, simpler names :guilabel:`jalan`, "
+":guilabel:`lokasi_penting`, :guilabel:`KRB III` and :guilabel:`vegetasi`."
 msgstr ""
 
 # 1eed1c4492424f99837bebd25af45237
@@ -271,8 +271,8 @@ msgstr ""
 # 8fc2ed57b1e948a282492ce89ec1aefd
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:111
 msgid ""
-"In your operating system’s file manager, create a new folder under :file:"
-"`qgis/Sleman/Merapi/` and call it :file:`evakuasi_bencana`."
+"In your operating system’s file manager, create a new folder under "
+":file:`qgis/Sleman/Merapi/` and call it :file:`evakuasi_bencana`."
 msgstr ""
 
 # 7ebb5d7e811740788af3e144392332a9
@@ -296,8 +296,8 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:122
 msgid ""
 "The first criteria we’re facing is that the land must be a farm or dry "
-"field, and it must be in one of three areas. So let’s tell QGIS to only show "
-"us the farms and dry fields that are, in fact, in these sub-districts!"
+"field, and it must be in one of three areas. So let’s tell QGIS to only show"
+" us the farms and dry fields that are, in fact, in these sub-districts!"
 msgstr ""
 
 # 290f96bc924d40e99990338b6002cc15
@@ -325,10 +325,10 @@ msgstr ""
 # 70cc31ceee1940e4bf86e60cab761c24
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:141
 msgid ""
-"Next we are going to build a query. A query is a statement that allows us to "
-"show only the data that we want from a layer. In this case, we want to "
-"instruct QGIS to only show us farms and dry fields, that have a sub-district "
-"value equal to Ngemplak, Turi, or Pakem."
+"Next we are going to build a query. A query is a statement that allows us to"
+" show only the data that we want from a layer. In this case, we want to "
+"instruct QGIS to only show us farms and dry fields, that have a sub-district"
+" value equal to Ngemplak, Turi, or Pakem."
 msgstr ""
 
 # 43ac288c42e54e1f9597bb8e7597de24
@@ -356,9 +356,9 @@ msgstr ""
 # 1fc9b011eabd444d8d931155459dcb83
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:157
 msgid ""
-"Repeat these steps twice more, using the values :guilabel:`Turi` and :"
-"guilabel:`Pakem` instead of :guilabel:`Ngemplak`. The query should look like "
-"this:"
+"Repeat these steps twice more, using the values :guilabel:`Turi` and "
+":guilabel:`Pakem` instead of :guilabel:`Ngemplak`. The query should look "
+"like this:"
 msgstr ""
 
 # 9be04ade7de5492a8fc11dbd451d1e33
@@ -369,8 +369,8 @@ msgstr ""
 # a1b3d015d14e4d7797e112a24ea16778
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:166
 msgid ""
-"Now highlight :guilabel:`guna_lahan` in the Fields list, and click the :"
-"guilabel:`All` button to load the values."
+"Now highlight :guilabel:`guna_lahan` in the Fields list, and click the "
+":guilabel:`All` button to load the values."
 msgstr ""
 
 # 38500560f026484c872a5efc67eb37be
@@ -383,16 +383,16 @@ msgstr ""
 # d280c6f416594208bb06913f1118a513
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:174
 msgid ""
-"Repeat the previous step but instead of :guilabel:`KEBUN` use :guilabel:"
-"`TEGALAN`. Your query should look like this:"
+"Repeat the previous step but instead of :guilabel:`KEBUN` use "
+":guilabel:`TEGALAN`. Your query should look like this:"
 msgstr ""
 
 # 65ace0607144494eada3f1aa02fbc50a
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:180
 msgid ""
 "The idea is that the query will filter the data layer so that it will only "
-"show us the features we want - that is, farms and dry fields in Pakem, Turis "
-"and Ngemplak."
+"show us the features we want - that is, farms and dry fields in Pakem, Turis"
+" and Ngemplak."
 msgstr ""
 
 # e5da605173964189af2a807894872a8e
@@ -445,8 +445,8 @@ msgstr ""
 # 8b792a656d404240b49892079727a402
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:218
 msgid ""
-"Click :guilabel:`Apply`. Then click :guilabel:`Close` once the selection has "
-"been applied."
+"Click :guilabel:`Apply`. Then click :guilabel:`Close` once the selection has"
+" been applied."
 msgstr ""
 
 # 80523d1bf259472089b8cb92feffe447
@@ -459,22 +459,22 @@ msgstr ""
 # 45d545a5c9394d738189bb7ee24fec00
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:230
 msgid ""
-"The next steps of our analysis will be easier if we save this selection as a "
-"separate layer."
+"The next steps of our analysis will be easier if we save this selection as a"
+" separate layer."
 msgstr ""
 
 # 399a7ee3d2064be9bc487f926582fa01
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:233
 msgid ""
-"Right-click on the :guilabel:`vegetasi` layer and click :guilabel:`Save As..."
-"`"
+"Right-click on the :guilabel:`vegetasi` layer and click :guilabel:`Save "
+"As...`"
 msgstr ""
 
 # ed16e26c0fd249d6a9b599c27237da10
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:239
 msgid ""
-"Next to the :guilabel:`Save as` field in the dialog that appears, click the :"
-"guilabel:`Browse` button."
+"Next to the :guilabel:`Save as` field in the dialog that appears, click the "
+":guilabel:`Browse` button."
 msgstr ""
 
 # 9beb682cb17049ee874f5a9e98f3a488
@@ -486,8 +486,9 @@ msgstr ""
 # c41fe90063dc4e8c88f8281c14adf5e3
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:244
 msgid ""
-"Check the box labelled :guilabel:`Save only selected features` and :guilabel:"
-"`Add saved file to map` in the :guilabel:`Save vector layer as...` dialog."
+"Check the box labelled :guilabel:`Save only selected features` and "
+":guilabel:`Add saved file to map` in the :guilabel:`Save vector layer as...`"
+" dialog."
 msgstr ""
 
 # 775bc32dd50046b9baff94c6078cd818
@@ -502,8 +503,8 @@ msgstr ""
 # 9cf457deb50f4ea28cfe001394f49c0c
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:253
 msgid ""
-"Rename the layers by right-clicking on new vegetasi layer and selecting :"
-"guilabel:`Rename`. Rename with :kbd:`kebun_tegalan`."
+"Rename the layers by right-clicking on new vegetasi layer and selecting "
+":guilabel:`Rename`. Rename with :kbd:`kebun_tegalan`."
 msgstr ""
 
 # a8be0fb4a4e941c58b3d9466e970a0ab
@@ -524,7 +525,8 @@ msgid ""
 "We have a problem with our roads layer, similar to that of our vegetation "
 "layer. Our roads layer has too many roads! We only want to use main roads "
 "for our analysis, so that we can meet the criteria that our location is "
-"within 300 metres of a major road. Once again, we will use the Query Builder."
+"within 300 metres of a major road. Once again, we will use the Query "
+"Builder."
 msgstr ""
 
 # 047ac2d42bdd4a0890f76f5b85e9a701
@@ -647,8 +649,8 @@ msgstr ""
 # 6b89a5396aaa444885dda993dd2b63ba
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:342
 msgid ""
-"Those big fat lines are actually areas that are within 300 metres of primary "
-"and secondary roads."
+"Those big fat lines are actually areas that are within 300 metres of primary"
+" and secondary roads."
 msgstr ""
 
 # 984387a94df044b797a33039b0ff06ae
@@ -668,8 +670,8 @@ msgstr ""
 msgid ""
 "Don’t forget to check the box :guilabel:`Dissolve buffer results` so every "
 "overlapping buffer will become one feature. Then save the new layer in the "
-"same directory as :file:`buffer_fas_kesehatan_2.5km.shp`. Your resulting map "
-"will look something like this:"
+"same directory as :file:`buffer_fas_kesehatan_2.5km.shp`. Your resulting map"
+" will look something like this:"
 msgstr ""
 
 # 37cc62442e7844a29c984ef4f4e4a8c1
@@ -687,8 +689,8 @@ msgstr ""
 # 58a65f5647364978869deba5211a3c4f
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:365
 msgid ""
-"Now we can see areas where a main road is 300 metres away and where there is "
-"a health facility within 2.5 km. But we only want the areas where both of "
+"Now we can see areas where a main road is 300 metres away and where there is"
+" a health facility within 2.5 km. But we only want the areas where both of "
 "these criteria are satisfied at once!  To do that we will use the Intersect "
 "tool."
 msgstr ""
@@ -701,9 +703,9 @@ msgstr ""
 # 052f0c82d2ae4cc481dead7b416be558
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:374
 msgid ""
-"Enter :guilabel:`buffer_fas_kesehatan_2.5km` and :guilabel:"
-"`buffer_jalan_300m` as the two input layers. Name the output shapefile :kbd:"
-"`intersect_buffer_jalan_kesehatan.shp`."
+"Enter :guilabel:`buffer_fas_kesehatan_2.5km` and "
+":guilabel:`buffer_jalan_300m` as the two input layers. Name the output "
+"shapefile :kbd:`intersect_buffer_jalan_kesehatan.shp`."
 msgstr ""
 
 # 44b640eec8ee4aa8ac95335ef7d33e21
@@ -715,8 +717,8 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:383
 msgid ""
 "If we hide the original layers, we can see that our new layer shows us the "
-"areas where they intersect. These are the areas where both of these criteria "
-"are satisfied."
+"areas where they intersect. These are the areas where both of these criteria"
+" are satisfied."
 msgstr ""
 
 # 179cbdb3a6064384b3c3ae5e96f675cf
@@ -758,7 +760,8 @@ msgstr ""
 
 # 30dc33e5fbdb4f7290e0ec158137e414
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:416
-msgid "Right-click on the :guilabel:`kebun_tegalan` layer in the Layers panel."
+msgid ""
+"Right-click on the :guilabel:`kebun_tegalan` layer in the Layers panel."
 msgstr ""
 
 # 20b66418671e4101801d05223f726def
@@ -770,17 +773,17 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:420
 msgid ""
 "Name the new file :kbd:`kebun_tegalan_lokasi_terpilih.shp`. Then check the "
-"box next to :guilabel:`Save only selected features` and :guilabel:`Add saved "
-"file to map`."
+"box next to :guilabel:`Save only selected features` and :guilabel:`Add saved"
+" file to map`."
 msgstr ""
 
 # b85c9ce6edc34d449628511fb4b06cfc
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:427
 msgid ""
 "After the process is finish, rename the layers by right-clicking the new "
-"kebun_tegalan layer and selecting :guilabel:`Rename`. Rename with :kbd:"
-"`kebun_tegalan_lokasi_terpilih`. If we hide all the other layers, we can see "
-"the resulting layer:"
+"kebun_tegalan layer and selecting :guilabel:`Rename`. Rename with "
+":kbd:`kebun_tegalan_lokasi_terpilih`. If we hide all the other layers, we "
+"can see the resulting layer:"
 msgstr ""
 
 # 3ab74de24be04305b6ce6657c7496491
@@ -802,8 +805,8 @@ msgid ""
 "Open the attribute table for the :guilabel:`kebun_tegalan_lokasi_terpilih` "
 "layer. Notice that there is a column named :guilabel:`luas_ha`. This is the "
 "size of the area in hectares. We could use this field to answer our "
-"question, but let’s add another column that contains the size of the area in "
-"square metres."
+"question, but let’s add another column that contains the size of the area in"
+" square metres."
 msgstr ""
 
 # cf20acb394cf4964a06c1090b6d23f13
@@ -828,8 +831,8 @@ msgstr ""
 # 22befdf0ce8a4800a2d9fb3421f6889f
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:464
 msgid ""
-"Check the box next to :guilabel:`Create a new field`. In the box type :kbd:"
-"`luas_m2`."
+"Check the box next to :guilabel:`Create a new field`. In the box type "
+":kbd:`luas_m2`."
 msgstr ""
 
 # 78ebe5b386c149bfabb7bdef850945aa
@@ -842,8 +845,8 @@ msgstr ""
 # c6f87453325142da9a074e624b52617e
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:478
 msgid ""
-"You should now see a new column on your attribute table, named :kbd:"
-"`luas_m2`. And QGIS has filled it in for us with square metres!"
+"You should now see a new column on your attribute table, named "
+":kbd:`luas_m2`. And QGIS has filled it in for us with square metres!"
 msgstr ""
 
 # 4a860c168cbf4801b689320529fa83cc
@@ -859,8 +862,8 @@ msgstr ""
 # ce780d5cdfac4cac8eef1ef46dadbed9
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:491
 msgid ""
-"Right-click on the :guilabel:`kebun_tegalan_lokasi_terpilih` layer and "
-"click :guilabel:`Filter...`"
+"Right-click on the :guilabel:`kebun_tegalan_lokasi_terpilih` layer and click"
+" :guilabel:`Filter...`"
 msgstr ""
 
 # d66e95d16991450584a6f0bebda4883f
@@ -883,8 +886,8 @@ msgstr ""
 # e189fca4c96a4976abb031274131451b
 #: ../../source/training/beginner/qgis-inasafe/210-vector-analysis-for-problem-solving.rst:509
 msgid ""
-"Right-click the :guilabel:`kebun_tegalan_terpilih` layer and click :guilabel:"
-"`Save As`. Name the file :file:`refugees_location.shp`."
+"Right-click the :guilabel:`kebun_tegalan_terpilih` layer and click "
+":guilabel:`Save As`. Name the file :file:`refugees_location.shp`."
 msgstr ""
 
 # c8b183c489cc4c6d96b61c11e780798b

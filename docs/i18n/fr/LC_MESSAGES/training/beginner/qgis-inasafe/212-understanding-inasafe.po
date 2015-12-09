@@ -1,21 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, InaSAFE project
 # This file is distributed under the same license as the InaSAFE Documentation Project package.
-#
+# 
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: inasafe-develop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-02 19:18+0200\n"
+"POT-Creation-Date: 2015-04-02 19:11\n"
 "PO-Revision-Date: 2015-04-02 17:15+0000\n"
 "Last-Translator: Werner Macho <werner.macho@gmail.com>\n"
-"Language-Team: French (http://www.transifex.com/projects/p/inasafe-develop/"
-"language/fr/)\n"
-"Language: fr\n"
+"Language-Team: French (http://www.transifex.com/timlinux/inasafe-develop/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 # cf8105d9f4754c46be4bda323782dea8
@@ -132,8 +131,8 @@ msgstr ""
 # c01f48679a784000844823e8cf270d43
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:48
 msgid ""
-"The earthquake modelling was done by experts. |project_name| is not a hazard "
-"modelling tool."
+"The earthquake modelling was done by experts. |project_name| is not a hazard"
+" modelling tool."
 msgstr ""
 
 # 894eee2696ab4125bb4cb6b5185b2fe1
@@ -144,16 +143,16 @@ msgid ""
 "houses, roads and bridges, or it can be so-called natural features, such as "
 "population, rice paddies and lakes. These exposed elements can be divided "
 "into various categories, including physical elements (houses, power lines), "
-"economic elements (agricultural land, access to employment), social elements "
-"(vulnerable groups, population count), and environmental elements (air, "
+"economic elements (agricultural land, access to employment), social elements"
+" (vulnerable groups, population count), and environmental elements (air, "
 "water, plants and animals)."
 msgstr ""
 
 # ea77a4cf43884499aba37ab07f26535f
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:62
 msgid ""
-"**Impact** is the result we get after |project_name| processes the effect of "
-"the hazard data upon the exposure data. For example, if there is an "
+"**Impact** is the result we get after |project_name| processes the effect of"
+" the hazard data upon the exposure data. For example, if there is an "
 "earthquake model in Lembang, and we process it against building data in "
 "Bandung, our impact layer may show those houses that would be severely "
 "damaged, those somewhat damaged, and those mildly damaged. In other words, "
@@ -204,8 +203,8 @@ msgstr ""
 # 8aef78c5a5754e8ab88538e9cf062be2
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:96
 msgid ""
-"Just like QGIS toolbars, you can drag and drop the |project_name| dock panel "
-"to change its position in the QGIS interface. You can pull it away as a "
+"Just like QGIS toolbars, you can drag and drop the |project_name| dock panel"
+" to change its position in the QGIS interface. You can pull it away as a "
 "separate window, or place it below the Layers panel. It’s convenient in its "
 "location on the right side of QGIS, so we will leave it there."
 msgstr ""
@@ -215,8 +214,8 @@ msgstr ""
 msgid ""
 "The |project_name| panel consists of three parts: Questions, Results and "
 "Buttons. The questions are mixed in with drop-down boxes - this is where we "
-"establish our input data and define the scenario that we want |project_name| "
-"to process. The purpose of |project_name| is to make your impact analysis "
+"establish our input data and define the scenario that we want |project_name|"
+" to process. The purpose of |project_name| is to make your impact analysis "
 "very simple and easy to do. The Questions section provides a simple way for "
 "you to formulate what you want to know. All questions are created in the "
 "following format:"
@@ -251,8 +250,8 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:128
 msgid ""
 "**Hazards** can be represented by vector layers or by raster layers. "
-"Remember that raster layers are like images with many pixels, and each pixel "
-"represents some data about an area on the ground. A raster that shows "
+"Remember that raster layers are like images with many pixels, and each pixel"
+" represents some data about an area on the ground. A raster that shows "
 "elevation, for example, will contain pixels with different values based on "
 "the altitude of the location. Similarly, a raster that represents an "
 "earthquake will contain the magnitude of the earthquake at the time of the "
@@ -283,8 +282,8 @@ msgstr ""
 # c4ef4d96060e469b832dba9aa8db842a
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:151
 msgid ""
-"Navigate to the :file:`qgis/Bandung/` folder and add :file:"
-"`Lembang_Earthquake_Scenario.asc`. This data is raster data (in ASCII "
+"Navigate to the :file:`qgis/Bandung/` folder and add "
+":file:`Lembang_Earthquake_Scenario.asc`. This data is raster data (in ASCII "
 "format) which represents the magnitude of the earthquake. The layer will "
 "look like this:"
 msgstr ""
@@ -302,8 +301,8 @@ msgstr ""
 msgid ""
 "You will notice that the hazard drop-down box has been automatically filled "
 "in the |project_name| panel. This is because the data file has already been "
-"prepared for us with keyword metadata (fancy words for settings) that tells |"
-"project_name| whether it’s a hazard or exposure layer. When we add the "
+"prepared for us with keyword metadata (fancy words for settings) that tells "
+"|project_name| whether it’s a hazard or exposure layer. When we add the "
 "exposure data, we will learn how to add these |project_name| keywords "
 "ourselves."
 msgstr ""
@@ -333,15 +332,15 @@ msgstr ""
 # f968956f4a5a4a65adc36489deda3d01
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:188
 msgid ""
-"Add the file :file:`Bangunan_Bandung.shp`, which is located in the :file:"
-"`qgis/Bandung/` folder."
+"Add the file :file:`Bangunan_Bandung.shp`, which is located in the "
+":file:`qgis/Bandung/` folder."
 msgstr ""
 
 # 713f4d4dac154022847ea69c9b9ee7be
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:194
 msgid ""
-"Notice that unlike the hazard layer, it does not appear automatically in |"
-"project_name|!"
+"Notice that unlike the hazard layer, it does not appear automatically in "
+"|project_name|!"
 msgstr ""
 
 # 08945bb840034e83aacec3925f29f6e0
@@ -361,8 +360,8 @@ msgstr ""
 # 2afada70a2c34e6ebeabb9309a930972
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:206
 msgid ""
-"Select the earthquake layer in the Layers panel, and click on the :guilabel:"
-"`InaSAFE Wizard` button."
+"Select the earthquake layer in the Layers panel, and click on the "
+":guilabel:`InaSAFE Wizard` button."
 msgstr ""
 
 # 1cdff6bf5aa1498ea46f2c02f9a72175
@@ -407,8 +406,8 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:238
 msgid ""
 "Now our hazard and exposure data are set in the |project_name| panel, "
-"because the appropriate keywords have been added to our layers. Note that if "
-"we were to add a second exposure layer to our project, we would be able to "
+"because the appropriate keywords have been added to our layers. Note that if"
+" we were to add a second exposure layer to our project, we would be able to "
 "choose which exposure layer we wanted from the |project_name| drop-down "
 "menu. The same applies to hazard layers."
 msgstr ""
@@ -416,8 +415,8 @@ msgstr ""
 # 531fab67ef56440b9ab29a0977a1ca6b
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:245
 msgid ""
-"The third drop-down box is the impact function (“Might”). This concludes our "
-"question, and defines the function that |project_name| will run behind the "
+"The third drop-down box is the impact function (“Might”). This concludes our"
+" question, and defines the function that |project_name| will run behind the "
 "scenes. |project_name| developers have written many of these functions to "
 "analyse all sorts of hazard and exposure layers. The function that is "
 "selected for us here will process the hazard and exposure layers spatially "
@@ -427,8 +426,8 @@ msgstr ""
 # e4d63848555747b38be0ef2b8145d08e
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:254
 msgid ""
-"Click the :guilabel:`Run` button at the bottom to start the impact analysis. "
-"At the end of the process, the statistics will be displayed in the Results "
+"Click the :guilabel:`Run` button at the bottom to start the impact analysis."
+" At the end of the process, the statistics will be displayed in the Results "
 "section, and a new layer will be added to the Layers panel that describes "
 "the result of the analysis. The map will distinguish between buildings that "
 "are affected and those that are not."
@@ -462,8 +461,8 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:275
 msgid ""
 "Drag the layer below your new impact layer. If the buildings don’t show "
-"correctly above the imagery, right-click on the layer and click :guilabel:"
-"`Update drawing order`."
+"correctly above the imagery, right-click on the layer and click "
+":guilabel:`Update drawing order`."
 msgstr ""
 
 # b841960d4c324a12887369ef62532810
@@ -474,8 +473,8 @@ msgstr ""
 # a7d5f3b96dd04bdb93a2c0f438dbc512
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:286
 msgid ""
-"The data displayed on the screen can be saved to a PDF file by clicking :"
-"guilabel:`Print` at the bottom of the |project_name| panel."
+"The data displayed on the screen can be saved to a PDF file by clicking "
+":guilabel:`Print` at the bottom of the |project_name| panel."
 msgstr ""
 
 # c5ab5b5d58974c92bfd454674acddd59
@@ -502,8 +501,8 @@ msgstr ""
 # 9e5f278bdbf24e9181c00138d19496eb
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:302
 msgid ""
-"If you want to add additional information before printing, click :guilabel:"
-"`Open Composer`."
+"If you want to add additional information before printing, click "
+":guilabel:`Open Composer`."
 msgstr ""
 
 # b1ba03d2107e40e7af01b4c6ebb28405
@@ -545,8 +544,8 @@ msgstr ""
 # 72a10ef0195f4151890da62a50fdeb1d
 #: ../../source/training/beginner/qgis-inasafe/212-understanding-inasafe.rst:332
 msgid ""
-"To save the project, click on the :guilabel:`Save Project` button at the top "
-"of QGIS."
+"To save the project, click on the :guilabel:`Save Project` button at the top"
+" of QGIS."
 msgstr ""
 
 # 004c82cb0a144a05a32bd1b722cd6a44

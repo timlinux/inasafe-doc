@@ -1,21 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, InaSAFE project
 # This file is distributed under the same license as the InaSAFE Documentation Project package.
-#
+# 
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: inasafe-develop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-02 19:18+0200\n"
+"POT-Creation-Date: 2015-04-02 19:11\n"
 "PO-Revision-Date: 2015-04-02 17:14+0000\n"
 "Last-Translator: Werner Macho <werner.macho@gmail.com>\n"
-"Language-Team: French (http://www.transifex.com/projects/p/inasafe-develop/"
-"language/fr/)\n"
-"Language: fr\n"
+"Language-Team: French (http://www.transifex.com/timlinux/inasafe-develop/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 # c08e8789d9794402a1c64e2e9653f401
@@ -57,8 +56,8 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:20
 msgid ""
 "We’ve talked a little bit about Coordinate Reference Systems (CRSs) "
-"previously, but haven’t covered it in depth. In this module, we’ll look more "
-"at what a CRS means practically, and how it affects our work in QGIS."
+"previously, but haven’t covered it in depth. In this module, we’ll look more"
+" at what a CRS means practically, and how it affects our work in QGIS."
 msgstr ""
 
 # a48e9ab59344486f87a16a0a5560c775
@@ -98,24 +97,24 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:49
 msgid ""
 "Do you notice the scale changing? This is because you’re moving away from "
-"the one point that you zoomed into at 1:20000000, which was at the centre of "
-"your screen. All around that point, the scale is different."
+"the one point that you zoomed into at 1:20000000, which was at the centre of"
+" your screen. All around that point, the scale is different."
 msgstr ""
 
 # 4cb10c4fb1e74380ae1458dc4e1cbd8e
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:54
 msgid ""
 "To understand why, think about a globe of the Earth. It has lines running "
-"vertically along it from North to South. These longitude lines are far apart "
-"at the equator, but they meet at the poles. In a GCS, you’re working on this "
-"sphere, but your screen is flat. When you try to represent the sphere of the "
-"earth on a flat surface, it becomes distorted, as if you took an orange peel "
-"and tried to flatten it. What this means on a map is that the longitude "
-"lines stay equally far apart from each other, even at the poles (where they "
-"are supposed to meet). This means that, as you travel away from the equator "
-"on your map, the scale of the objects that you see gets larger and larger. "
-"What this means for us, practically, is that there is no constant scale on "
-"our map!"
+"vertically along it from North to South. These longitude lines are far apart"
+" at the equator, but they meet at the poles. In a GCS, you’re working on "
+"this sphere, but your screen is flat. When you try to represent the sphere "
+"of the earth on a flat surface, it becomes distorted, as if you took an "
+"orange peel and tried to flatten it. What this means on a map is that the "
+"longitude lines stay equally far apart from each other, even at the poles "
+"(where they are supposed to meet). This means that, as you travel away from "
+"the equator on your map, the scale of the objects that you see gets larger "
+"and larger. What this means for us, practically, is that there is no "
+"constant scale on our map!"
 msgstr ""
 
 # 87fa427d2c37421ca6ed13086590ac7a
@@ -146,8 +145,8 @@ msgid ""
 "Often these are the same. Your project may be in WGS84, and the layers too. "
 "But sometimes you will add a layer that is not in the same CRS as the "
 "project, and you need QGIS to convert it so that it can be displayed along "
-"with the rest of the data. The term that we use for this is reprojecting 'on "
-"the fly'."
+"with the rest of the data. The term that we use for this is reprojecting 'on"
+" the fly'."
 msgstr ""
 
 # 68039e27a8c346dd87ceedea664ffa42
@@ -167,8 +166,8 @@ msgstr ""
 # ebcb51d6546b4a3b88347abf1a9a1606
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:101
 msgid ""
-"Type :kbd:`NSIDC` into the Filter field. One CRS (\"NSIDC EASE-Grid Global"
-"\") will appear in the list below."
+"Type :kbd:`NSIDC` into the Filter field. One CRS (\"NSIDC EASE-Grid "
+"Global\") will appear in the list below."
 msgstr ""
 
 # 5ecf6cc2432840bca68ba87d0cf8e621
@@ -203,15 +202,15 @@ msgstr ""
 # 8b2db788c305449798a82a628d17e15d
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:119
 msgid ""
-"Deactivate 'on the fly' reprojection again, by unchecking the box next to :"
-"guilabel:`Enable ‘on the fly’ CRS transformation`."
+"Deactivate 'on the fly' reprojection again, by unchecking the box next to "
+":guilabel:`Enable ‘on the fly’ CRS transformation`."
 msgstr ""
 
 # 0bd7cd3fca9443c2968d6c6c5524c2ae
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:122
 msgid ""
-"Load the vector layer :file:`Indonesia.shp` located in :file:`qgis/"
-"peta_dunia/`."
+"Load the vector layer :file:`Indonesia.shp` located in "
+":file:`qgis/peta_dunia/`."
 msgstr ""
 
 # bc01dbbda4de4f07b8a0dba5b021ee47
@@ -358,8 +357,8 @@ msgstr ""
 # e915c8b6bb0b462f8607ba70ae002e4a
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:202
 msgid ""
-"Click :guilabel:`OK` and after a minute, above your map extent you should be "
-"presented with:"
+"Click :guilabel:`OK` and after a minute, above your map extent you should be"
+" presented with:"
 msgstr ""
 
 # 22de74582cf34d08ab13db17abfeb759
@@ -384,8 +383,8 @@ msgstr ""
 # c9614c6a17ca4ab7898263574db4ae6c
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:217
 msgid ""
-"There are many more projections than just those included in QGIS by default. "
-"You can even create your own projections. Let’s see how this works."
+"There are many more projections than just those included in QGIS by default."
+" You can even create your own projections. Let’s see how this works."
 msgstr ""
 
 # 2b5dc1752e76495190444d49f6ed0488
@@ -396,7 +395,8 @@ msgstr ""
 # 86f135fafcbf4b03b7423d70df08e147
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:223
 msgid ""
-"Load the vector layer :file:`oceans.shp` located in :file:`qgis/peta_dunia/`."
+"Load the vector layer :file:`oceans.shp` located in "
+":file:`qgis/peta_dunia/`."
 msgstr ""
 
 # 9cfbf32288f442df861991546708caca
@@ -409,8 +409,8 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:231
 msgid ""
 "We will create a projection known as Van der Grinten I. This interesting "
-"projection represents the earth on a circular field instead of a rectangular "
-"field, as most projections do."
+"projection represents the earth on a circular field instead of a rectangular"
+" field, as most projections do."
 msgstr ""
 
 # 705fae6eb3324dd692c523ae5f64c684
@@ -426,8 +426,8 @@ msgstr ""
 # 4018dbcd81ad4f89a7ca895f71c86192
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:239
 msgid ""
-":kbd:`+proj=vandg +lon_0=0 +x_0=0 +y_0=0 +R_A +a=6371000 +b=6371000 +units=m "
-"+no_defs`"
+":kbd:`+proj=vandg +lon_0=0 +x_0=0 +y_0=0 +R_A +a=6371000 +b=6371000 +units=m"
+" +no_defs`"
 msgstr ""
 
 # 9c85c93f14da4100a0010376db344943
@@ -449,15 +449,15 @@ msgstr ""
 # 0fd02bfcada14024833ef595058225a7
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:250
 msgid ""
-"Search for your newly defined projection by typing it into the :guilabel:"
-"`Filter` box:"
+"Search for your newly defined projection by typing it into the "
+":guilabel:`Filter` box:"
 msgstr ""
 
 # 0f3666c561f446eea61bcbdf137abfbd
 #: ../../source/training/beginner/qgis-inasafe/205-map-projection-basics.rst:256
 msgid ""
-"You should see it appear in the box at the bottom. Select it, and click :"
-"guilabel:`OK`."
+"You should see it appear in the box at the bottom. Select it, and click "
+":guilabel:`OK`."
 msgstr ""
 
 # f6274110e7304e038d074f17f6bb86b3

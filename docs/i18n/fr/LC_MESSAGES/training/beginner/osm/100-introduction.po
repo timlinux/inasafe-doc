@@ -1,21 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, InaSAFE project
 # This file is distributed under the same license as the InaSAFE Documentation Project package.
-#
+# 
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: inasafe-develop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-05 22:23+0100\n"
+"POT-Creation-Date: 2014-12-22 12:28\n"
 "PO-Revision-Date: 2014-12-28 17:51+0000\n"
 "Last-Translator: Werner Macho <werner.macho@gmail.com>\n"
-"Language-Team: French (http://www.transifex.com/projects/p/inasafe-develop/"
-"language/fr/)\n"
-"Language: fr\n"
+"Language-Team: French (http://www.transifex.com/timlinux/inasafe-develop/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 # 1069128665c04a5d8510f62c71cd6928
@@ -31,7 +30,8 @@ msgstr ""
 # ca79ae0b3555486eab4797c1c4f804fb
 #: ../../source/training/beginner/osm/100-introduction.rst:15
 msgid ""
-"This document is initial draft and still in reviewing phase by these parties:"
+"This document is initial draft and still in reviewing phase by these "
+"parties:"
 msgstr ""
 
 # 3d6f291e01c840cab3b42a24d44dcf03
@@ -64,8 +64,8 @@ msgstr ""
 # 50a284f1356d433cac26daf6604267c8
 #: ../../source/training/beginner/osm/100-introduction.rst:29
 msgid ""
-"All contents and materials in this document are licensed as Creative Commons "
-"Attribution Australia (CCbyA)."
+"All contents and materials in this document are licensed as Creative Commons"
+" Attribution Australia (CCbyA)."
 msgstr ""
 
 # 2524d6c17c0a4aa1828b692493089981
@@ -96,8 +96,8 @@ msgstr ""
 # e81c7bbbde314997b2c8a48a5bb843ae
 #: ../../source/training/beginner/osm/100-introduction.rst:40
 msgid ""
-"More information about CCbyA License: http://creativecommons.org/licenses/"
-"by/3.0/au/deed.en_GB"
+"More information about CCbyA License: "
+"http://creativecommons.org/licenses/by/3.0/au/deed.en_GB"
 msgstr ""
 
 # 6b680d1ead2f4f8da9386ee25e6584c3
@@ -136,9 +136,9 @@ msgstr ""
 # 67b251bebdaa4f36b581b5898cc31c11
 #: ../../source/training/beginner/osm/100-introduction.rst:67
 msgid ""
-"The Australia-Indonesia Facility for Disaster Reduction (|AIFDR|) is a joint "
-"initiative between the governments of Australia and Indonesia. They work to "
-"strengthen Indonesia's ability to reduce the impact of disasters. The "
+"The Australia-Indonesia Facility for Disaster Reduction (|AIFDR|) is a joint"
+" initiative between the governments of Australia and Indonesia. They work to"
+" strengthen Indonesia's ability to reduce the impact of disasters. The "
 "Australian and Indonesian governments at a special ceremony on 15 July 2010 "
 "launched the Australia-Indonesia facility. The launch marks an important "
 "event in the strong relationship now shared by both countries and their "
@@ -164,9 +164,10 @@ msgid ""
 "rapidly changing. OpenStreetMap (OSM) is a web project to create a free and "
 "open map of the entire world, built entirely by volunteers surveying with "
 "GPS, digitising aerial imagery, and collecting and liberating existing "
-"public sources of geographic data. The Humanitarian OpenStreetMap Team (|"
-"HOT|) is an initiative to apply the principles and activities of open source "
-"and open data sharing towards humanitarian response and economic development."
+"public sources of geographic data. The Humanitarian OpenStreetMap Team "
+"(|HOT|) is an initiative to apply the principles and activities of open "
+"source and open data sharing towards humanitarian response and economic "
+"development."
 msgstr ""
 
 # ce9804f524eb403e9e173a48087d4a9c
@@ -182,12 +183,12 @@ msgstr ""
 # 8367e17a7bb947d4b2e610bcc66cb553
 #: ../../source/training/beginner/osm/100-introduction.rst:99
 msgid ""
-"Universitas Gadjah Mada (internationally known as Gadjah Mada University, or "
-"UGM) is a top research university located in Yogyakarta, Indonesia. The "
+"Universitas Gadjah Mada (internationally known as Gadjah Mada University, or"
+" UGM) is a top research university located in Yogyakarta, Indonesia. The "
 "Department of Geodetic Engineering and Faculty of Engineering focuses on "
 "education, research, and commmunity services related to geodesy and "
-"geomatics engineering, including acquisition, analysis, and uses of detailed "
-"and accurate geospatial data and large-scale maps using open source "
+"geomatics engineering, including acquisition, analysis, and uses of detailed"
+" and accurate geospatial data and large-scale maps using open source "
 "geospatial software for disaster management."
 msgstr ""
 
@@ -206,8 +207,8 @@ msgstr ""
 msgid ""
 "Every day thousands of people contribute to OSM, a project with the lofty "
 "goal of mapping the world. Most OSM software is free and open source, and "
-"the data is open for anyone to use. The idea is simple: if you make a map of "
-"your town and we make a map of ours, we can share those maps on a common "
+"the data is open for anyone to use. The idea is simple: if you make a map of"
+" your town and we make a map of ours, we can share those maps on a common "
 "platform. With enough people contributing, we can collect data throughout "
 "the world."
 msgstr ""
@@ -237,8 +238,8 @@ msgstr ""
 msgid ""
 "The only other assumption is that you've used the internet before. Perhaps "
 "you're familiar with Facebook or email, and that's certainly enough to get "
-"started with OSM. If you're already comfortable using a computer and surfing "
-"the web, don't worry – this guide is for you too. No matter your "
+"started with OSM. If you're already comfortable using a computer and surfing"
+" the web, don't worry – this guide is for you too. No matter your "
 "proficiency, we'll take you step-by-step through OSM and you'll be mapping "
 "in no time!"
 msgstr ""

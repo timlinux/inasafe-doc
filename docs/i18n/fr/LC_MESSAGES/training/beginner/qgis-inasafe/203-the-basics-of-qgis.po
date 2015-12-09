@@ -1,21 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, InaSAFE project
 # This file is distributed under the same license as the InaSAFE Documentation Project package.
-#
+# 
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: inasafe-develop\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-02 19:18+0200\n"
-"PO-Revision-Date: 2015-04-02 17:15+0000\n"
+"POT-Creation-Date: 2015-04-02 19:11\n"
+"PO-Revision-Date: 2015-06-11 09:47+0000\n"
 "Last-Translator: Werner Macho <werner.macho@gmail.com>\n"
-"Language-Team: French (http://www.transifex.com/projects/p/inasafe-develop/"
-"language/fr/)\n"
-"Language: fr\n"
+"Language-Team: French (http://www.transifex.com/timlinux/inasafe-develop/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 # 9cecadc3f0e14ed78059c21e44186b14
@@ -80,8 +79,8 @@ msgstr ""
 # 9d711c47a3de4619809dcd0615dd72ca
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:29
 msgid ""
-"Note that if you have previously installed QGIS, feel free to skip ahead to :"
-"ref:`section three <terminology-of-gis>`. Otherwise, let’s start here and "
+"Note that if you have previously installed QGIS, feel free to skip ahead to "
+":ref:`section three <terminology-of-gis>`. Otherwise, let’s start here and "
 "get QGIS installed."
 msgstr ""
 
@@ -93,8 +92,8 @@ msgstr ""
 # 27fe98733e684f4fa3c356c04bac8b3f
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:35
 msgid ""
-"Open your web browser and in the address bar at the top of the window, type :"
-"kbd:`qgis.org`. Press :guilabel:`Enter`."
+"Open your web browser and in the address bar at the top of the window, type "
+":kbd:`qgis.org`. Press :guilabel:`Enter`."
 msgstr ""
 
 # 7269190794334c338be18ba3652f9da8
@@ -126,9 +125,7 @@ msgstr ""
 msgid ""
 "When the file is downloaded, run it and follow the instructions to install "
 "QGIS."
-msgstr ""
-"à la fin du téléchargement, lancez l'installateur et suivez les instructions "
-"pour installer QGIS."
+msgstr "à la fin du téléchargement, lancez l'installateur et suivez les instructions pour installer QGIS."
 
 # 72f5ff6159ed407ebfc52bb7f21aa887
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:69
@@ -138,15 +135,13 @@ msgstr ""
 # 714704de18814d6baa2ac837c444091c
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:71
 msgid "Open the folder where you have the QGIS installation file."
-msgstr ""
-"Ouvrez le répertoire dans lequel vous avez téléchargé le fichier "
-"d'installation QGIS."
+msgstr "Ouvrez le répertoire dans lequel vous avez téléchargé le fichier d'installation QGIS."
 
 # 05c3f2b3973f429886d7996b4613aaff
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:76
 msgid ""
-"Run the installation file. If you are installing QGIS version 2.x, it should "
-"look like this:"
+"Run the installation file. If you are installing QGIS version 2.x, it should"
+" look like this:"
 msgstr ""
 
 # c32e23f560174a8f8706d913e8c7e54b
@@ -173,9 +168,7 @@ msgstr ""
 msgid ""
 "In the next window, Click :guilabel:`Install` without checking any of the "
 "boxes."
-msgstr ""
-"Dans la fenêtre suivante, clickez :guilabel:`Installer` sans cocher les case "
-"à cocher."
+msgstr "Dans la fenêtre suivante, clickez :guilabel:`Installer` sans cocher les case à cocher."
 
 # 98bfda1e19144502becee0898fcebeae
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:103
@@ -207,28 +200,26 @@ msgstr ""
 # cb55cdaeaac94592aeada9c5ff82dece
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:129
 msgid ""
-"Next we will open up a QGIS project, and take a look at the different pieces "
-"of the QGIS interface. If you installed |project_name| previously, make sure "
-"it is closed by clicking on the X in the upper right corner of the |"
-"project_name| panel. If it isn’t open or you haven’t installed it yet, carry "
-"on. We will come back to this later."
+"Next we will open up a QGIS project, and take a look at the different pieces"
+" of the QGIS interface. If you installed |project_name| previously, make "
+"sure it is closed by clicking on the X in the upper right corner of the "
+"|project_name| panel. If it isn’t open or you haven’t installed it yet, "
+"carry on. We will come back to this later."
 msgstr ""
 
 # 3ac78d59e17d4cb292672253838aebd1
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:136
 msgid ""
-"Click on the folder icon on the upper toolbar or go to :menuselection:"
-"`Project ‣ Open...`"
+"Click on the folder icon on the upper toolbar or go to "
+":menuselection:`Project ‣ Open...`"
 msgstr ""
 
 # ac7cf4df4d0343838123e2a814713e14
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:142
 msgid ""
-"Navigate to the tutorial files and go into the :file:`qgis/` directory. Open "
-"the file named :file:`sleman_2_2.qgs`."
-msgstr ""
-"naviguez jusq'aux fichiers de tutoriel et allez dans le répertoire :file:"
-"`qgis/`. Ouvrez le fichier nommé :file:`sleman_2_2.qgs`."
+"Navigate to the tutorial files and go into the :file:`qgis/` directory. Open"
+" the file named :file:`sleman_2_2.qgs`."
+msgstr "naviguez jusq'aux fichiers de tutoriel et allez dans le répertoire :file:`qgis/`. Ouvrez le fichier nommé :file:`sleman_2_2.qgs`."
 
 # d390f7c29b034fd89306c8707925171d
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:145
@@ -268,9 +259,9 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:167
 msgid ""
 "The layers panel not only shows all the files that are currently open, it "
-"also determines the order that they will be drawn on the map canvas. A layer "
-"that is at the bottom of the list will be drawn first, and any layers above "
-"it will be drawn on top."
+"also determines the order that they will be drawn on the map canvas. A layer"
+" that is at the bottom of the list will be drawn first, and any layers above"
+" it will be drawn on top."
 msgstr ""
 
 # 8b8055574d64437c9aa19b52189864bc
@@ -348,8 +339,8 @@ msgstr ""
 # be94ecc35018485fa747a074ebfc4caf
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:225
 msgid ""
-"To add or remove a toolbar, right-click on any of the toolbars, or go to :"
-"menuselection:`View ‣ Toolbars`."
+"To add or remove a toolbar, right-click on any of the toolbars, or go to "
+":menuselection:`View ‣ Toolbars`."
 msgstr ""
 
 # 97cd91a8679f47bd919e23dd09749747
@@ -393,11 +384,9 @@ msgstr "Vecteur"
 # 0f88da2940984f908bc1577d6ee76902
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:243
 msgid ""
-"After removing these toolbars and moving them around, your tools should look "
-"like this:"
-msgstr ""
-"Après avoir enlevé ces barres d'outils et en avoir déplacé, vous devriez "
-"avoir ce type d'aspect:"
+"After removing these toolbars and moving them around, your tools should look"
+" like this:"
+msgstr "Après avoir enlevé ces barres d'outils et en avoir déplacé, vous devriez avoir ce type d'aspect:"
 
 # 63490f33067847e38e1b1ca5f7f026a1
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:249
@@ -443,16 +432,12 @@ msgstr ""
 # f3246440b60c43c9888f3c87220719ac
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:275
 msgid "Now we will add an additional layer containing roads to our project."
-msgstr ""
-"Nous allons maintenant ajouter une couche vecteur contenant des routes à "
-"notre projet."
+msgstr "Nous allons maintenant ajouter une couche vecteur contenant des routes à notre projet."
 
 # aacbed697bda46acb17d22ece8a0e399
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:277
 msgid "Click on the :guilabel:`Add Vector Layer` button on the toolbar."
-msgstr ""
-"Clickez sur le bouton :guilabel:`Ajouter une couche vecteur` de la barre "
-"d'outils."
+msgstr "Clickez sur le bouton :guilabel:`Ajouter une couche vecteur` de la barre d'outils."
 
 # 23b001e104d1416985f7ac2c97f586cc
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:282
@@ -463,8 +448,8 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:287
 msgid ""
 "Navigate to the file :file:`qgis/Sleman/Jalan_Sleman_OSM.shp` (you may need "
-"to unzip the file :file:`Sleman.zip` first). Select the file and click :"
-"guilabel:`Open`."
+"to unzip the file :file:`Sleman.zip` first). Select the file and click "
+":guilabel:`Open`."
 msgstr ""
 
 # 6d5274e589a9457e8d071495ecf68d3f
@@ -575,25 +560,23 @@ msgstr ""
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:332
 msgid ""
 "Before we examine the attributes of individual features, let’s take a quick "
-"look at how to navigate the map. The main controls for moving the map around "
-"and zooming in and out are by default on the panels at the top of QGIS."
+"look at how to navigate the map. The main controls for moving the map around"
+" and zooming in and out are by default on the panels at the top of QGIS."
 msgstr ""
 
 # d03806907c2e4a2ebca0b029a39b5af6
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:340
 msgid ""
-"When you click on one of these buttons, it changes what you can do with your "
-"mouse in the main map window."
-msgstr ""
-"Clicker sur l'un de ces booutons modifie ce que l'on peut faire avec la "
-"souris sur la fenêtre principale, celle de la carte."
+"When you click on one of these buttons, it changes what you can do with your"
+" mouse in the main map window."
+msgstr "Clicker sur l'un de ces booutons modifie ce que l'on peut faire avec la souris sur la fenêtre principale, celle de la carte."
 
 # d4483a0ff8a843809dcc9eefc5816a32
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:343
 msgid ""
 "Select the first button that looks like a hand. Now hold the left mouse "
-"button down and drag the mouse in the map window. This allows you to pan the "
-"map, or move it around."
+"button down and drag the mouse in the map window. This allows you to pan the"
+" map, or move it around."
 msgstr ""
 
 # bce548b876a547e2a8c007878787be40
@@ -607,8 +590,8 @@ msgstr ""
 # b8e1071b496e4e6ab05da932e83c657c
 #: ../../source/training/beginner/qgis-inasafe/203-the-basics-of-qgis.rst:353
 msgid ""
-"The button that has a minus sign below a magnifying glass allows you to zoom "
-"out on the map. Select this button and click on the map."
+"The button that has a minus sign below a magnifying glass allows you to zoom"
+" out on the map. Select this button and click on the map."
 msgstr ""
 
 # b41cb225866c43db9e72a9f4e4da46e9
